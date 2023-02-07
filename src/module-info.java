@@ -6,4 +6,5 @@
  *
  */
 module crudemJava {
+	requires java.sql;
 }
