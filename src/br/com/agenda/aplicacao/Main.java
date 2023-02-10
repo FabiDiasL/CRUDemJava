@@ -13,7 +13,7 @@ public class Main {
 		Contato contato = new Contato();
 
 		contato.setNome("Mariana Dias");
-		contato.setIdade(03);
+		contato.setIdade(3);
 		contato.setDataCadastro(new Date());
 
 		contatoDao.save(contato);
