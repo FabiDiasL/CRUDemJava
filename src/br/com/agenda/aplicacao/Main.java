@@ -11,7 +11,7 @@ public class Main {
 
 		ContatoDAO contatoDao = new ContatoDAO();
 		Contato contato = new Contato();
-
+		
 		contato.setNome("Mariana Dias");
 		contato.setIdade(3);
 		contato.setDataCadastro(new Date());
